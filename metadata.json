@@ -1,0 +1,6 @@
+{
+  "name": "Synapse - AI Study Material & Quiz Engine",
+  "description": "Transform your study modules and materials into structured summaries, interactive flashcards, and adaptive practice quizzes for PC and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
